@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTMxMDc0NDc2Njk2MjQ2NjkwOA.G3mOcS.6GYf8Yorh0IADhE4qjkeBooy4mRT7KevCWpQuY",
+  TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://jk420:jk420@jangbii.pgu5k.mongodb.net/?retryWrites=true&w=majority&appName=jangbii",
